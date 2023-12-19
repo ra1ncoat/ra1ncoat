@@ -1,16 +1,19 @@
-### Hi there 👋
+# What up, G-Hub ✌️
+It's me, the cool dev that you've never heard of.
 
-<!--
-**ra1ncoat/ra1ncoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Do
+- 🕹️ Make & Play Games
+- 🔑 Write Jailbreaks and Tweaks
+- 🌐 Create JS and HTML libraries
+- ➕ Way more than I can write here
 
-Here are some ideas to get you started:
+## My Current Projects
+- 🎗️ Ribbon, the ultimate Scarlet repo
+- ✍️ Blogdown.JS, a Markdown parser for blogs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other Works
+- 🎵 Evolve Via Energy, a DnB group
+- 🖼️ Decibrush, my common art program username
+
+That's the basics!
+bye 4 now
